@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alshifa333
 - 👀 I’m interested in WEB Development and Flutter 
-- 🌱 I’m currently learning REACTJS
+- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on projects related on Web development and flutter
 - 📫 YOU can cantact me through EMAIL: alshifathearmy33@gmail.com
 
