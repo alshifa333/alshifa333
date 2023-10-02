@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alshifa333
 - 👀 I’m interested in WEB Development.
 - 🌱 I’m currently learning Hibernate.
-- 💞️ I’m looking to collaborate on projects related on Web development and flutter
+- 💞️ I’m looking to collaborate on projects related on Web development.
 - 📫 YOU can contact me through EMAIL: alshifathearmy33@gmail.com
 
 <!---
